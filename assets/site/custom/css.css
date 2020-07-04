@@ -1,0 +1,419 @@
+#f2 , #f3 
+{
+	display: none;
+} 
+
+
+
+.pink-color 
+{
+	color: rgba(238, 110, 115, 0.9);
+}
+
+
+.i5
+{
+	text-indent: 30px;
+}
+
+#tac
+{
+	text-align: justify;
+}
+
+
+#forgot-panel
+{
+	display: none;
+}
+
+
+
+
+#project-icon , #accomplishment-icon , #request-icon , #user-icon
+{
+	margin-top: 35%;
+	font-size: 72px;
+}
+ 
+
+
+
+td, th 
+{
+	padding: 3px;
+}
+
+
+
+.dash-btn 
+{ 
+	width: 180px;
+	height: 180px;
+	margin-left: 18%;
+	margin-right: 18%;
+	margin-top: 18%; 
+}
+
+
+
+#password_error 
+{
+	display: none;
+	color: red;
+}
+
+
+
+.btn-pink 
+{
+	background-color: rgba(238, 110, 115, 0.9);
+}
+
+
+
+.service-caption 
+{
+	text-align: justify;
+	text-indent: 50px;
+}
+
+
+
+
+.btn-green 
+{
+	background-color: #4dad53;
+}
+
+
+
+.all-product 
+{
+	padding: 2%; 
+}
+
+
+.teal-color 
+{
+	color: #26a69a;	
+}
+
+
+
+.grey-color 
+{
+	color: #263238;
+}
+
+
+
+.hover 
+{
+	text-indent: 2%;
+	cursor: pointer;
+}
+
+
+
+.hover:hover 
+{
+	background-color: #26a69a;
+	color:#fff; 
+}
+
+
+.font-white:hover 
+{
+	color: #fff;
+}
+
+
+
+.a_img 
+{
+	width: 100%;
+	height: 170px;
+}
+
+
+
+.caption-text 
+{
+	background-color: rgba(0,0,0,0.5);
+	color:#fff;
+}
+
+
+
+#product_list 
+{
+	display: none;
+}
+
+
+
+.p-10 {
+	text-indent: 50px;
+	padding: 5%;
+	text-align: justify;
+}
+.i-teal {
+	color: teal;
+}
+.i-green {
+	color: #4caf50;
+}
+th{
+	width: 50px;
+}
+#action_blue {
+	color: #337ab7;
+}
+#workers{
+	display: none;
+}
+#transportations{
+	display: none;
+}
+ .icon {
+ 	background-color: #337ab7;
+ 	border-radius: 2px;
+ 	border: none;
+ 	color: #fff;
+ 	width: 35px;
+ }
+#manage_password {
+	display: none;
+}
+
+
+
+.user_dash {
+	width: 650px;
+	height: 500px;
+} 
+#notif_dash,#notif_dash1 {
+	width: auto;
+	height: 200px;
+}
+.truncate {
+	border-color: none;
+	border:none;
+}
+body {
+	background-color: #fff;
+}
+.tabs {
+	background-color: transparent;
+}
+blockquote {
+	border-color: #337ab7;
+}
+#body_request {
+	background-image: url('../../../uploads/projects/office.jpg');
+}
+.dash_img {
+	padding-left: 20%;
+	padding-top: 20%;
+	padding-right: 20%; 
+}
+ .hoverable {
+ 	cursor: pointer;
+ }
+
+#googleMap1 {
+	width: 100%;
+	height: 400px;
+}
+
+#googleMap {
+	width: 100%;
+	height: 500px;
+}
+.caption { 
+	height: 70px;
+	width: 330px;
+	margin-left: 5%;
+	font-size: 24px;
+	text-align: left;
+	padding-top: 3%;
+
+}
+
+.tab-icon{
+	font-size: 24px;
+}
+
+.project_img {
+	width: 400px;
+	height: 400px;
+}
+.tab_menu {
+	color: #337ab7;
+}
+#login, #signup {
+	/*color: white;*/
+	color: #fff;
+
+}
+#login:hover{
+	color: #0089ff;
+}
+ #signup:hover {
+	color: #0089ff;
+}
+ .nav {
+	background-color: #337ab7;  
+	color: #fff; 
+
+}  
+.form_header{
+	padding-top: 5px;
+	margin-left: 10px;
+}
+#site_login {
+
+	/*position: relative;*/
+	/*width: 400px;*/
+	margin-top: -470px;
+	/*padding: 10px;*/
+	/*margin-left: 3%;*/
+	/*background-color: rgba(0,0,0,0.5);  */
+	background-color: rgba(255,255,255,1);  
+	/*color: white;*/
+	color: #000;
+}
+.header {
+	color: #337ab7;
+}
+#services {
+	position: relative;
+}
+
+.side-menu-list {
+	padding: 2%;
+}
+.com_name {
+	font-size: 24px;
+	margin-left: 10px;
+}
+/*.tabs {
+	color: #337ab7;
+}
+ */
+
+#search_input {
+	background-color: transparent;
+}
+#home_nav, #page_nav {  
+
+       background-color: rgba(0,0,0,0.8); 
+       /*background-color: rgba(51,122,183,1); */
+       /*background-color: rgba(30,40,44,0.7);*/
+}
+.h4w5 {
+	height: 350px;
+	width: 500px;
+}
+.m1 {
+	margin-left: 1%;
+	margin-right: 1%;
+}
+ 
+.p_img {
+	height:250px;
+	width: 300px;
+}
+.the_company {
+	height: 400px;
+}
+.page-footer {  
+       background-color: rgba(0,0,0,0.9);  
+}
+
+ .padding {
+ 	margin-top: 5%;
+ 	margin-left: 10%;
+ 	margin-right: 10%;
+ 	/*margin-bottom: 10%;*/
+ }
+ #padding {
+ 	margin-top: 5%;
+ 	margin-bottom: 10%;
+ 	margin-right: 5%;
+ 	margin-left: 5%;
+ }
+.btn-teal {
+	color: 
+}
+.parallax-container {
+	/*height: 500px; */
+	height: 500px; 
+}
+
+.team_img { 
+	height: 220px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.about_content {
+	line-height: 12.8;
+}
+
+.pro_img {
+	height: 220px;
+	width: auto;
+}
+
+.right {
+	float: right;
+}
+
+.btn-blue { 
+    background-color: #337ab7;
+}
+
+ 
+ 
+#signup:hover {
+	color:  #fff;
+}
+.c_img { 
+	/*size: 100%;*/
+	height: 300px;
+	width: 320px;
+}
+.h_img { 
+	height: 100%; 
+	width: 100%;
+	/*width: 400px;*/
+}
+
+.srvc_img {
+	height:300px;
+}
+
+.prjct_img {
+	height: 450px;
+}
+
+
+.prdct_img {
+	height: 230px;
+}
+
+
+
+
+.chip {
+	color: white;
+}
+
+
+#btn-send-request {
+	display: none;
+}
+
+
+ 
